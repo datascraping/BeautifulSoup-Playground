@@ -1,5 +1,3 @@
-#!/usr/bin/env
-
 from bs4 import BeautifulSoup
 
 import sys
